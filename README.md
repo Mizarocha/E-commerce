@@ -45,7 +45,7 @@ Fazendo tudo em um único lugar.
 Clone o projeto com esse comando:
 
 ```
-https://github.com/Mizarocha/react-nutri.git
+https://github.com/Mizarocha/E-commercer.git
 ```
 Instale a dependência do projeto:
 ```
@@ -55,10 +55,6 @@ Para iniciar o comando da:
 ```
 npm start
 ``` 
-
-
-
-
 
 ## Resultado Final:
 <div>
