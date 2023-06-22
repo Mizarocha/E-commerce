@@ -1,4 +1,4 @@
-<h1 align="center"> E-commece - Lemiza BH</h1>
+<h1 align="center"> E-commerce - Lemiza BH</h1>
 
  ### Desenvolvir uma aplicação Front-end com ReactJS em um dos bootcamp da Digintal Innovation One.    
 
