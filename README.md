@@ -45,7 +45,7 @@ Fazendo tudo em um único lugar.
 Clone o projeto com esse comando:
 
 ```
-https://github.com/Mizarocha/E-commercer.git
+https://github.com/Mizarocha/E-commerce.git
 ```
 Instale a dependência do projeto:
 ```
